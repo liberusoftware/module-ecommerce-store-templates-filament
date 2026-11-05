@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-store-templates-filament",
+  "capabilityKey": "planned:ecommerce:store-templates",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/ecommerce-store-templates-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/ecommerce/nextjs/store-templates.md",
+  "presentationPlan": "projects/ecommerce/filament/store-templates.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
